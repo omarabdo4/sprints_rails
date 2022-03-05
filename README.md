@@ -19,3 +19,5 @@ docker-compose up
 in another terminal run :
 
 docker-compose run web rake db:create
+
+![working installation]("working installation.png?raw=true" "Title")
