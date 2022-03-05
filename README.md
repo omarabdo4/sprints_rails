@@ -20,4 +20,4 @@ in another terminal run :
 
 docker-compose run web rake db:create
 
-![working installation]("working installation.png?raw=true" "Title")
+![working installation](https://github.com/omarabdo4/sprints_rails/blob/screenshots/working%20installation.png?raw=true "working installation")
